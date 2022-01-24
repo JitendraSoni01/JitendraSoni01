@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Jitendra-red)](https://www.youtube.com/channel/UC-y73x9_n2zVEGIuvYgzpdw)
 [![Linkedin Badge](https://img.shields.io/badge/-Jitendra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jitendra-soni-734255196/)](https://www.linkedin.com/in/jitendra-soni-734255196/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Jitendra-green)](https://www.jitendra)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Jitendra-yellow)](https://stackoverflow.com/users/edit/17892197-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Jitendra-yellow)](https://stackoverflow.com/users/17892197/jitendra-kumar-soni-)
 
 I'm
 Full Stack Solution Architect
